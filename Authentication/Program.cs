@@ -33,6 +33,7 @@ builder.Services.AddControllers();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddSingleton<IAccountService, AccountService>();
+builder.Services.AddSingleton<IProductService, ProductService>();
 
 var app = builder.Build();
 

@@ -44,6 +44,19 @@ namespace Authentication.Controllers
 
             return Ok(account);
         }
+
+        [HttpDelete("{id}")]
+        public IActionResult Delete(int id)
+        {
+            var account = _accountService.GetAccounts();
+            if (account == null)
+            {
+                return NotFound("Account not found.");
+            }
+
+            _accountService.DeleteAccount(id);
+            return Ok(account);
+        }
     }
 
 }

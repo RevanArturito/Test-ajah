@@ -1,0 +1,52 @@
+[
+  {
+    "namaproduk": "SIX MONOCRYSTALLINE SOLAR PANEL",
+    "jenis": "Rangka Kabel",
+    "idProduk": "9845",
+    "hargaProduk": "4000000",
+    "panjangProduk": "500",
+    "lebarProduk": "200",
+    "stokProduk": 9,
+    "deskripsiProduk": "Model 6 panel surya yang dijadikan 1 bagian yang terbuat dari kristal silikon tunggal yang dihasilkan dengan proses pertumbuhan kristal tunggal."
+  },
+  {
+    "namaproduk": "THREE MONOCRYSTALLINE SOLAR PANEL",
+    "jenis": "Set",
+    "idProduk": "1254",
+    "hargaProduk": "2500000",
+    "panjangProduk": "468",
+    "lebarProduk": "156",
+    "stokProduk": 5,
+    "deskripsiProduk": "Model 3 panel surya yang dijadikan 1 bagian yang terbuat dari kristal silikon tunggal yang dihasilkan dengan proses pertumbuhan kristal tunggal."
+  },
+  {
+    "namaproduk": "Produk2",
+    "jenis": "panel",
+    "idProduk": "1254",
+    "hargaProduk": "4000000",
+    "panjangProduk": "150",
+    "lebarProduk": "150",
+    "stokProduk": 10,
+    "deskripsiProduk": "panel 150 x 150"
+  },
+  {
+    "namaproduk": "ASTAGFIRULAH",
+    "jenis": "Kabel",
+    "idProduk": "9193",
+    "hargaProduk": "4000000",
+    "panjangProduk": "100",
+    "lebarProduk": "50",
+    "stokProduk": 2,
+    "deskripsiProduk": "Kamu adalah panel surya ku"
+  },
+  {
+    "namaproduk": "tes",
+    "jenis": "tes",
+    "idProduk": "00",
+    "hargaProduk": "tes",
+    "panjangProduk": "tes",
+    "lebarProduk": "tes",
+    "stokProduk": 10,
+    "deskripsiProduk": "deskripsi"
+  }
+]

@@ -7,5 +7,6 @@ namespace Authentication.Controllers
         List<Account> GetAccounts();
         void AddAccount(Account account);
         Account GetAccountById(int id);
+        void DeleteAccount(int id);
     }
 }

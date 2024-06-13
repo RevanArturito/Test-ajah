@@ -30,6 +30,26 @@ namespace Authentication.Controllers
             }
         }
 
+        public void DeleteAccount(int id)
+        {
+            List<Account> accounts = GetAccounts();
+            if (accounts != null)
+            {
+                accounts.RemoveAt(id);
+            }
+
+            var HasilKonversi = JsonConvert.SerializeObject(accounts);
+
+            JsonSerializerOptions options = new JsonSerializerOptions()
+            {
+                WriteIndented = true,
+            };
+            using (StreamWriter write = new StreamWriter(_filePath))
+            {
+                write.Write(HasilKonversi);
+            }
+        }
+
         public Account GetAccountById(int id)
         {
             throw new NotImplementedException();
@@ -49,5 +69,6 @@ namespace Authentication.Controllers
                 throw new Exception($"Error reading account data: {ex.Message}");
             }
         }
+
     }
 }
