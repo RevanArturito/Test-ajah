@@ -625,19 +625,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
+    "C:\\Users\\Farrel Haykal\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\TUBES2\\GUI\\GUI.csproj",
+      "projectUniqueName": "E:\\Materi\\KPL ISAL\\KPL DESIGN\\ReCycle-Sukabirus-2\\GUI\\GUI.csproj",
       "projectName": "GUI",
-      "projectPath": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\TUBES2\\GUI\\GUI.csproj",
-      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\TUBES2\\GUI\\obj\\",
+      "projectPath": "E:\\Materi\\KPL ISAL\\KPL DESIGN\\ReCycle-Sukabirus-2\\GUI\\GUI.csproj",
+      "packagesPath": "C:\\Users\\Farrel Haykal\\.nuget\\packages\\",
+      "outputPath": "E:\\Materi\\KPL ISAL\\KPL DESIGN\\ReCycle-Sukabirus-2\\GUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Farrel Haykal\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -651,8 +651,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\TUBES2\\Authentication\\Authentication.csproj": {
-              "projectPath": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\TUBES2\\Authentication\\Authentication.csproj"
+            "E:\\Materi\\KPL ISAL\\KPL DESIGN\\ReCycle-Sukabirus-2\\Authentication\\Authentication.csproj": {
+              "projectPath": "E:\\Materi\\KPL ISAL\\KPL DESIGN\\ReCycle-Sukabirus-2\\Authentication\\Authentication.csproj"
             }
           }
         }

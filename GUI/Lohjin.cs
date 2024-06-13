@@ -37,6 +37,11 @@ namespace GUI
             Application.Run(new HomePage());
         }
 
+        public void openUserPage(object obj)
+        {
+            Application.Run(new UserPage());
+        }
+
         private void Form1_Load(object sender, EventArgs e)
         {
 
@@ -102,12 +107,22 @@ namespace GUI
             {
                 if (checkingFunc.LoginCheck(username, password))
                 {
-                    
-                    MessageBox.Show("Login Berhasil");
-                    this.Close();
-                    th = new Thread(openHomePage);
-                    th.SetApartmentState(ApartmentState.STA);
-                    th.Start();
+                    if (checkingFunc.AdminCheck(username, password))
+                    {
+
+                        MessageBox.Show("Login Berhasil");
+                        this.Close();
+                        th = new Thread(openHomePage);
+                        th.SetApartmentState(ApartmentState.STA);
+                        th.Start();
+                    } else
+                    {
+                        MessageBox.Show("Login Berhasil");
+                        this.Close();
+                        th = new Thread(openUserPage);
+                        th.SetApartmentState(ApartmentState.STA);
+                        th.Start();
+                    }
                 }
                 else
                 {
