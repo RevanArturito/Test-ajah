@@ -34,3 +34,39 @@ D:\REVAN\MATERI KULIAH\SEMESTER 4\KONSTRUKSI PERANGKAT LUNAK\TUBES2\Authenticati
 D:\REVAN\MATERI KULIAH\SEMESTER 4\KONSTRUKSI PERANGKAT LUNAK\TUBES2\Authentication\bin\Debug\net8.0\Newtonsoft.Json.dll
 D:\REVAN\MATERI KULIAH\SEMESTER 4\KONSTRUKSI PERANGKAT LUNAK\TUBES2\Authentication\obj\Debug\net8.0\Authentication.sourcelink.json
 D:\REVAN\MATERI KULIAH\SEMESTER 4\KONSTRUKSI PERANGKAT LUNAK\TUBES2\Authentication\bin\Debug\net8.0\ProductsSolarPanels.json
+E:\Materi\KPL ISAL\KPL DESIGN\ReCycle-Sukabirus-2\Authentication\bin\Debug\net8.0\Account.json
+E:\Materi\KPL ISAL\KPL DESIGN\ReCycle-Sukabirus-2\Authentication\bin\Debug\net8.0\appsettings.Development.json
+E:\Materi\KPL ISAL\KPL DESIGN\ReCycle-Sukabirus-2\Authentication\bin\Debug\net8.0\appsettings.json
+E:\Materi\KPL ISAL\KPL DESIGN\ReCycle-Sukabirus-2\Authentication\bin\Debug\net8.0\ProductsSolarPanels.json
+E:\Materi\KPL ISAL\KPL DESIGN\ReCycle-Sukabirus-2\Authentication\bin\Debug\net8.0\Authentication.exe
+E:\Materi\KPL ISAL\KPL DESIGN\ReCycle-Sukabirus-2\Authentication\bin\Debug\net8.0\Authentication.deps.json
+E:\Materi\KPL ISAL\KPL DESIGN\ReCycle-Sukabirus-2\Authentication\bin\Debug\net8.0\Authentication.runtimeconfig.json
+E:\Materi\KPL ISAL\KPL DESIGN\ReCycle-Sukabirus-2\Authentication\bin\Debug\net8.0\Authentication.dll
+E:\Materi\KPL ISAL\KPL DESIGN\ReCycle-Sukabirus-2\Authentication\bin\Debug\net8.0\Authentication.pdb
+E:\Materi\KPL ISAL\KPL DESIGN\ReCycle-Sukabirus-2\Authentication\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Materi\KPL ISAL\KPL DESIGN\ReCycle-Sukabirus-2\Authentication\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Materi\KPL ISAL\KPL DESIGN\ReCycle-Sukabirus-2\Authentication\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Materi\KPL ISAL\KPL DESIGN\ReCycle-Sukabirus-2\Authentication\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Materi\KPL ISAL\KPL DESIGN\ReCycle-Sukabirus-2\Authentication\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Materi\KPL ISAL\KPL DESIGN\ReCycle-Sukabirus-2\Authentication\obj\Debug\net8.0\Authentication.csproj.AssemblyReference.cache
+E:\Materi\KPL ISAL\KPL DESIGN\ReCycle-Sukabirus-2\Authentication\obj\Debug\net8.0\Authentication.GeneratedMSBuildEditorConfig.editorconfig
+E:\Materi\KPL ISAL\KPL DESIGN\ReCycle-Sukabirus-2\Authentication\obj\Debug\net8.0\Authentication.AssemblyInfoInputs.cache
+E:\Materi\KPL ISAL\KPL DESIGN\ReCycle-Sukabirus-2\Authentication\obj\Debug\net8.0\Authentication.AssemblyInfo.cs
+E:\Materi\KPL ISAL\KPL DESIGN\ReCycle-Sukabirus-2\Authentication\obj\Debug\net8.0\Authentication.csproj.CoreCompileInputs.cache
+E:\Materi\KPL ISAL\KPL DESIGN\ReCycle-Sukabirus-2\Authentication\obj\Debug\net8.0\Authentication.MvcApplicationPartsAssemblyInfo.cs
+E:\Materi\KPL ISAL\KPL DESIGN\ReCycle-Sukabirus-2\Authentication\obj\Debug\net8.0\Authentication.MvcApplicationPartsAssemblyInfo.cache
+E:\Materi\KPL ISAL\KPL DESIGN\ReCycle-Sukabirus-2\Authentication\obj\Debug\net8.0\Authentication.sourcelink.json
+E:\Materi\KPL ISAL\KPL DESIGN\ReCycle-Sukabirus-2\Authentication\obj\Debug\net8.0\staticwebassets.build.json
+E:\Materi\KPL ISAL\KPL DESIGN\ReCycle-Sukabirus-2\Authentication\obj\Debug\net8.0\staticwebassets.development.json
+E:\Materi\KPL ISAL\KPL DESIGN\ReCycle-Sukabirus-2\Authentication\obj\Debug\net8.0\staticwebassets\msbuild.Authentication.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Materi\KPL ISAL\KPL DESIGN\ReCycle-Sukabirus-2\Authentication\obj\Debug\net8.0\staticwebassets\msbuild.build.Authentication.props
+E:\Materi\KPL ISAL\KPL DESIGN\ReCycle-Sukabirus-2\Authentication\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Authentication.props
+E:\Materi\KPL ISAL\KPL DESIGN\ReCycle-Sukabirus-2\Authentication\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Authentication.props
+E:\Materi\KPL ISAL\KPL DESIGN\ReCycle-Sukabirus-2\Authentication\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Materi\KPL ISAL\KPL DESIGN\ReCycle-Sukabirus-2\Authentication\obj\Debug\net8.0\scopedcss\bundle\Authentication.styles.css
+E:\Materi\KPL ISAL\KPL DESIGN\ReCycle-Sukabirus-2\Authentication\obj\Debug\net8.0\Authenti.5C4D8D91.Up2Date
+E:\Materi\KPL ISAL\KPL DESIGN\ReCycle-Sukabirus-2\Authentication\obj\Debug\net8.0\Authentication.dll
+E:\Materi\KPL ISAL\KPL DESIGN\ReCycle-Sukabirus-2\Authentication\obj\Debug\net8.0\refint\Authentication.dll
+E:\Materi\KPL ISAL\KPL DESIGN\ReCycle-Sukabirus-2\Authentication\obj\Debug\net8.0\Authentication.pdb
+E:\Materi\KPL ISAL\KPL DESIGN\ReCycle-Sukabirus-2\Authentication\obj\Debug\net8.0\Authentication.genruntimeconfig.cache
+E:\Materi\KPL ISAL\KPL DESIGN\ReCycle-Sukabirus-2\Authentication\obj\Debug\net8.0\ref\Authentication.dll

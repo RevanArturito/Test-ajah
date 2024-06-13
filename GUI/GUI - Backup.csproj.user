@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="HomePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lohjin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegisterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TestLanding.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserControls\AddProduct.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+<<<<<<< HEAD
+    <Compile Update="UserControls\EditProduct.cs">
+      <SubType>Form</SubType>
+=======
+    <Compile Update="UserControls\BeliProduk.cs">
+      <SubType>UserControl</SubType>
+>>>>>>> 2a2c97674e86b6e6472c31dd35c7696f9dc4e017
+    </Compile>
+    <Compile Update="UserControls\ListProduct.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\Profile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserControls\ProfileUser.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UserPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

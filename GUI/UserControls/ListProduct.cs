@@ -20,7 +20,7 @@ namespace GUI.UserControls
 
         public void openEditor(object obj)
         {
-            Application.Run(new EditProduct());
+            //Application.Run(new EditProduct());
         }
 
         public ListProduct()
@@ -87,16 +87,16 @@ namespace GUI.UserControls
 
                 // Buat objek produk dari item yang dipilih
                 Produk selectedProduct = new Produk
-                {
-                    idProduk = selectedItem.SubItems[0].Text,
-                    namaproduk = selectedItem.SubItems[1].Text,
-                    jenis = selectedItem.SubItems[2].Text,
-                    hargaProduk = selectedItem.SubItems[3].Text,
-                    panjangProduk = selectedItem.SubItems[4].Text,
-                    lebarProduk = selectedItem.SubItems[5].Text,
-                    stokProduk = int.Parse(selectedItem.SubItems[6].Text),
-                    deskripsiProduk = selectedItem.SubItems[7].Text
-                };
+                (
+                    selectedItem.SubItems[0].Text,
+                    selectedItem.SubItems[1].Text,
+                    selectedItem.SubItems[2].Text,
+                    selectedItem.SubItems[3].Text,
+                    selectedItem.SubItems[4].Text,
+                    selectedItem.SubItems[5].Text,
+                    int.Parse(selectedItem.SubItems[6].Text),
+                    selectedItem.SubItems[7].Text
+                );
 
                 // Tampilkan form edit produk
                 EditProduct editForm = new EditProduct(selectedProduct);
@@ -122,23 +122,23 @@ namespace GUI.UserControls
         }
         private void UpdateJsonFile()
         {
-            string filePath = "D:\\codingan\\Admin\\Admin\\ProductsSolarPanel.json"; // Sesuaikan dengan path file JSON Anda
+            string filePath = "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\TUBES2\\Authentication\\ProductsSolarPanels.json"; // Sesuaikan dengan path file JSON Anda
 
             // Buat daftar produk dari ListView
             List<Produk> produkList = new List<Produk>();
             foreach (ListViewItem item in listView1.Items)
             {
                 Produk produk = new Produk
-                {
-                    idProduk = item.SubItems[0].Text,
-                    namaproduk = item.SubItems[1].Text,
-                    jenis = item.SubItems[2].Text,
-                    hargaProduk = item.SubItems[3].Text,
-                    panjangProduk = item.SubItems[4].Text,
-                    lebarProduk = item.SubItems[5].Text,
-                    stokProduk = int.Parse(item.SubItems[6].Text),
-                    deskripsiProduk = item.SubItems[7].Text
-                };
+                (
+                    item.SubItems[0].Text,
+                    item.SubItems[1].Text,
+                    item.SubItems[2].Text,
+                    item.SubItems[3].Text,
+                    item.SubItems[4].Text,
+                    item.SubItems[5].Text,
+                    int.Parse(item.SubItems[6].Text),
+                    item.SubItems[7].Text
+                );
                 produkList.Add(produk);
             }
 
