@@ -70,3 +70,39 @@ E:\Materi\KPL ISAL\KPL DESIGN\ReCycle-Sukabirus-2\Authentication\obj\Debug\net8.
 E:\Materi\KPL ISAL\KPL DESIGN\ReCycle-Sukabirus-2\Authentication\obj\Debug\net8.0\Authentication.pdb
 E:\Materi\KPL ISAL\KPL DESIGN\ReCycle-Sukabirus-2\Authentication\obj\Debug\net8.0\Authentication.genruntimeconfig.cache
 E:\Materi\KPL ISAL\KPL DESIGN\ReCycle-Sukabirus-2\Authentication\obj\Debug\net8.0\ref\Authentication.dll
+D:\test\Test-ajah\Authentication\bin\Debug\net8.0\Account.json
+D:\test\Test-ajah\Authentication\bin\Debug\net8.0\appsettings.Development.json
+D:\test\Test-ajah\Authentication\bin\Debug\net8.0\appsettings.json
+D:\test\Test-ajah\Authentication\bin\Debug\net8.0\ProductsSolarPanels.json
+D:\test\Test-ajah\Authentication\bin\Debug\net8.0\Authentication.exe
+D:\test\Test-ajah\Authentication\bin\Debug\net8.0\Authentication.deps.json
+D:\test\Test-ajah\Authentication\bin\Debug\net8.0\Authentication.runtimeconfig.json
+D:\test\Test-ajah\Authentication\bin\Debug\net8.0\Authentication.dll
+D:\test\Test-ajah\Authentication\bin\Debug\net8.0\Authentication.pdb
+D:\test\Test-ajah\Authentication\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\test\Test-ajah\Authentication\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\test\Test-ajah\Authentication\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\test\Test-ajah\Authentication\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\test\Test-ajah\Authentication\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\test\Test-ajah\Authentication\obj\Debug\net8.0\Authentication.csproj.AssemblyReference.cache
+D:\test\Test-ajah\Authentication\obj\Debug\net8.0\Authentication.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\Test-ajah\Authentication\obj\Debug\net8.0\Authentication.AssemblyInfoInputs.cache
+D:\test\Test-ajah\Authentication\obj\Debug\net8.0\Authentication.AssemblyInfo.cs
+D:\test\Test-ajah\Authentication\obj\Debug\net8.0\Authentication.csproj.CoreCompileInputs.cache
+D:\test\Test-ajah\Authentication\obj\Debug\net8.0\Authentication.MvcApplicationPartsAssemblyInfo.cs
+D:\test\Test-ajah\Authentication\obj\Debug\net8.0\Authentication.MvcApplicationPartsAssemblyInfo.cache
+D:\test\Test-ajah\Authentication\obj\Debug\net8.0\Authentication.sourcelink.json
+D:\test\Test-ajah\Authentication\obj\Debug\net8.0\staticwebassets.build.json
+D:\test\Test-ajah\Authentication\obj\Debug\net8.0\staticwebassets.development.json
+D:\test\Test-ajah\Authentication\obj\Debug\net8.0\staticwebassets\msbuild.Authentication.Microsoft.AspNetCore.StaticWebAssets.props
+D:\test\Test-ajah\Authentication\obj\Debug\net8.0\staticwebassets\msbuild.build.Authentication.props
+D:\test\Test-ajah\Authentication\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Authentication.props
+D:\test\Test-ajah\Authentication\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Authentication.props
+D:\test\Test-ajah\Authentication\obj\Debug\net8.0\staticwebassets.pack.json
+D:\test\Test-ajah\Authentication\obj\Debug\net8.0\scopedcss\bundle\Authentication.styles.css
+D:\test\Test-ajah\Authentication\obj\Debug\net8.0\Authenti.5C4D8D91.Up2Date
+D:\test\Test-ajah\Authentication\obj\Debug\net8.0\Authentication.dll
+D:\test\Test-ajah\Authentication\obj\Debug\net8.0\refint\Authentication.dll
+D:\test\Test-ajah\Authentication\obj\Debug\net8.0\Authentication.pdb
+D:\test\Test-ajah\Authentication\obj\Debug\net8.0\Authentication.genruntimeconfig.cache
+D:\test\Test-ajah\Authentication\obj\Debug\net8.0\ref\Authentication.dll

@@ -8,6 +8,9 @@
     <Compile Update="Lohjin.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Payment.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="RegisterForm.cs">
       <SubType>Form</SubType>
     </Compile>

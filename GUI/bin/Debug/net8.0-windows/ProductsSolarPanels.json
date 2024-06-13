@@ -1,25 +1,5 @@
 [
   {
-    "namaproduk": "9845",
-    "jenis": "SIX MONOCRYSTALLINE SOLAR PANEL",
-    "idProduk": "Rangka Kabel",
-    "hargaProduk": "4000000",
-    "panjangProduk": "500",
-    "lebarProduk": "200",
-    "stokProduk": 9,
-    "deskripsiProduk": "Model 6 panel surya yang dijadikan 1 bagian yang terbuat dari kristal silikon tunggal yang dihasilkan dengan proses pertumbuhan kristal tunggal."
-  },
-  {
-    "namaproduk": "1254",
-    "jenis": "THREE MONOCRYSTALLINE SOLAR PANEL",
-    "idProduk": "Set",
-    "hargaProduk": "2500000",
-    "panjangProduk": "468",
-    "lebarProduk": "156",
-    "stokProduk": 5,
-    "deskripsiProduk": "Model 3 panel surya yang dijadikan 1 bagian yang terbuat dari kristal silikon tunggal yang dihasilkan dengan proses pertumbuhan kristal tunggal."
-  },
-  {
     "namaproduk": "1254",
     "jenis": "Produk2",
     "idProduk": "panel",

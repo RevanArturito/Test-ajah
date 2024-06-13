@@ -1,1 +1,42 @@
-[{"namaproduk":"1254","jenis":"Produk2","idProduk":"panel","hargaProduk":"4000000","panjangProduk":"150","lebarProduk":"150","stokProduk":10,"deskripsiProduk":"panel 150 x 150"},{"namaproduk":"9193","jenis":"ASTAGFIRULAH","idProduk":"Kabel","hargaProduk":"4000000","panjangProduk":"100","lebarProduk":"50","stokProduk":2,"deskripsiProduk":"Kamu adalah panel surya ku"},{"namaproduk":"6968","jenis":"h","idProduk":"hh","hargaProduk":"8","panjangProduk":"8","lebarProduk":"8","stokProduk":8,"deskripsiProduk":"h"},{"namaproduk":"Rangka Rakitan","jenis":"6244","idProduk":"RTX 140 JANUARI FEBRUARY","hargaProduk":"1002500","panjangProduk":"300","lebarProduk":"100","stokProduk":10,"deskripsiProduk":"RTX 140 JANUARI FEBRUARY merupakan produk panel surya yang terbaru dan sangat efisien untuk menangkap panas matahari"}]
+[
+  {
+    "namaproduk": "1254",
+    "jenis": "Produk2",
+    "idProduk": "panel",
+    "hargaProduk": "4000000",
+    "panjangProduk": "150",
+    "lebarProduk": "150",
+    "stokProduk": 10,
+    "deskripsiProduk": "panel 150 x 150"
+  },
+  {
+    "namaproduk": "9193",
+    "jenis": "ASTAGFIRULAH",
+    "idProduk": "Kabel",
+    "hargaProduk": "4000000",
+    "panjangProduk": "100",
+    "lebarProduk": "50",
+    "stokProduk": 2,
+    "deskripsiProduk": "Kamu adalah panel surya ku"
+  },
+  {
+    "namaproduk": "6968",
+    "jenis": "h",
+    "idProduk": "hh",
+    "hargaProduk": "8",
+    "panjangProduk": "8",
+    "lebarProduk": "8",
+    "stokProduk": 8,
+    "deskripsiProduk": "h"
+  },
+  {
+    "namaproduk": "Rangka Rakitan",
+    "jenis": "6244",
+    "idProduk": "RTX 140 JANUARI FEBRUARY",
+    "hargaProduk": "1002500",
+    "panjangProduk": "300",
+    "lebarProduk": "100",
+    "stokProduk": 10,
+    "deskripsiProduk": "RTX 140 JANUARI FEBRUARY merupakan produk panel surya yang terbaru dan sangat efisien untuk menangkap panas matahari"
+  }
+]
