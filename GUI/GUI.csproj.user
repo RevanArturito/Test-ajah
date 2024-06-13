@@ -16,6 +16,9 @@
     <Compile Update="UserControls\AddProduct.cs">
       <SubType>UserControl</SubType>
     </Compile>
+    <Compile Update="UserControls\EditProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="UserControls\ListProduct.cs">
       <SubType>UserControl</SubType>
     </Compile>

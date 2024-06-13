@@ -28,17 +28,14 @@
         /// </summary>
         private void InitializeComponent()
         {
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges1 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(HomePage));
+            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges1 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges2 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges3 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges4 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges5 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges6 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges7 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges8 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             panel1 = new Panel();
-            Profile = new Guna.UI2.WinForms.Guna2Button();
             pictureBox1 = new PictureBox();
             LogoutButton = new Guna.UI2.WinForms.Guna2Button();
             ListButton = new Guna.UI2.WinForms.Guna2Button();
@@ -51,7 +48,6 @@
             // panel1
             // 
             panel1.BackColor = Color.FromArgb(0, 34, 49);
-            panel1.Controls.Add(Profile);
             panel1.Controls.Add(pictureBox1);
             panel1.Controls.Add(LogoutButton);
             panel1.Controls.Add(ListButton);
@@ -61,28 +57,6 @@
             panel1.Size = new Size(267, 846);
             panel1.TabIndex = 0;
             panel1.Paint += panel1_Paint;
-            // 
-            // Profile
-            // 
-            Profile.BackColor = Color.Transparent;
-            Profile.CustomizableEdges = customizableEdges1;
-            Profile.DisabledState.BorderColor = Color.DarkGray;
-            Profile.DisabledState.CustomBorderColor = Color.DarkGray;
-            Profile.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
-            Profile.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            Profile.FillColor = Color.Transparent;
-            Profile.Font = new Font("Arial Narrow", 13.8F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            Profile.ForeColor = Color.White;
-            Profile.Image = (Image)resources.GetObject("Profile.Image");
-            Profile.ImageAlign = HorizontalAlignment.Left;
-            Profile.Location = new Point(13, 392);
-            Profile.Name = "Profile";
-            Profile.ShadowDecoration.CustomizableEdges = customizableEdges2;
-            Profile.Size = new Size(254, 56);
-            Profile.TabIndex = 4;
-            Profile.Text = "Profile";
-            Profile.TextAlign = HorizontalAlignment.Left;
-            Profile.Click += Profile_Click;
             // 
             // pictureBox1
             // 
@@ -97,7 +71,7 @@
             // 
             // LogoutButton
             // 
-            LogoutButton.CustomizableEdges = customizableEdges3;
+            LogoutButton.CustomizableEdges = customizableEdges1;
             LogoutButton.DisabledState.BorderColor = Color.DarkGray;
             LogoutButton.DisabledState.CustomBorderColor = Color.DarkGray;
             LogoutButton.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
@@ -110,7 +84,7 @@
             LogoutButton.Location = new Point(13, 726);
             LogoutButton.Name = "LogoutButton";
             LogoutButton.PressedColor = Color.SeaShell;
-            LogoutButton.ShadowDecoration.CustomizableEdges = customizableEdges4;
+            LogoutButton.ShadowDecoration.CustomizableEdges = customizableEdges2;
             LogoutButton.Size = new Size(254, 56);
             LogoutButton.TabIndex = 2;
             LogoutButton.Text = "Logout";
@@ -120,7 +94,7 @@
             // ListButton
             // 
             ListButton.BackColor = Color.Transparent;
-            ListButton.CustomizableEdges = customizableEdges5;
+            ListButton.CustomizableEdges = customizableEdges3;
             ListButton.DisabledState.BorderColor = Color.DarkGray;
             ListButton.DisabledState.CustomBorderColor = Color.DarkGray;
             ListButton.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
@@ -133,7 +107,7 @@
             ListButton.Location = new Point(13, 330);
             ListButton.Name = "ListButton";
             ListButton.RightToLeft = RightToLeft.No;
-            ListButton.ShadowDecoration.CustomizableEdges = customizableEdges6;
+            ListButton.ShadowDecoration.CustomizableEdges = customizableEdges4;
             ListButton.Size = new Size(254, 56);
             ListButton.TabIndex = 1;
             ListButton.Text = "List Produk";
@@ -144,7 +118,7 @@
             // 
             TambahButton.BackColor = Color.Gainsboro;
             TambahButton.BorderColor = Color.Transparent;
-            TambahButton.CustomizableEdges = customizableEdges7;
+            TambahButton.CustomizableEdges = customizableEdges5;
             TambahButton.DisabledState.BorderColor = Color.DarkGray;
             TambahButton.DisabledState.CustomBorderColor = Color.DarkGray;
             TambahButton.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
@@ -156,7 +130,7 @@
             TambahButton.ImageAlign = HorizontalAlignment.Left;
             TambahButton.Location = new Point(13, 268);
             TambahButton.Name = "TambahButton";
-            TambahButton.ShadowDecoration.CustomizableEdges = customizableEdges8;
+            TambahButton.ShadowDecoration.CustomizableEdges = customizableEdges6;
             TambahButton.Size = new Size(254, 56);
             TambahButton.TabIndex = 0;
             TambahButton.Text = "Tambah Product";
@@ -193,7 +167,6 @@
         private Guna.UI2.WinForms.Guna2Button TambahButton;
         private Guna.UI2.WinForms.Guna2Button LogoutButton;
         private PictureBox pictureBox1;
-        private Guna.UI2.WinForms.Guna2Button Profile;
         private Panel PanelContainer;
     }
 }
