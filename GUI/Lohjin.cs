@@ -33,6 +33,11 @@ namespace GUI
             Application.Run(new RegisterForm());
         }
 
+        public void openHomePage(object obj)
+        {
+            Application.Run(new HomePage());
+        }
+
         private void Form1_Load(object sender, EventArgs e)
         {
 
@@ -100,7 +105,7 @@ namespace GUI
                 {
                     MessageBox.Show("Login Berhasil");
                     this.Close();
-                    th = new Thread(openRegister);
+                    th = new Thread(openHomePage);
                     th.SetApartmentState(ApartmentState.STA);
                     th.Start();
                 }

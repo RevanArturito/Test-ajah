@@ -38,15 +38,5 @@
     "lebarProduk": "50",
     "stokProduk": 2,
     "deskripsiProduk": "Kamu adalah panel surya ku"
-  },
-  {
-    "namaproduk": "tes",
-    "jenis": "tes",
-    "idProduk": "00",
-    "hargaProduk": "tes",
-    "panjangProduk": "tes",
-    "lebarProduk": "tes",
-    "stokProduk": 10,
-    "deskripsiProduk": "deskripsi"
   }
 ]
