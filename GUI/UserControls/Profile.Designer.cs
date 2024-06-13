@@ -28,17 +28,44 @@
         /// </summary>
         private void InitializeComponent()
         {
+            LabelHai = new Label();
+            LabelNama = new Label();
             SuspendLayout();
+            // 
+            // LabelHai
+            // 
+            LabelHai.AutoSize = true;
+            LabelHai.Font = new Font("Arial Narrow", 16.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            LabelHai.Location = new Point(476, 126);
+            LabelHai.Name = "LabelHai";
+            LabelHai.Size = new Size(71, 33);
+            LabelHai.TabIndex = 0;
+            LabelHai.Text = "Halo,";
+            // 
+            // LabelNama
+            // 
+            LabelNama.AutoSize = true;
+            LabelNama.Location = new Point(562, 135);
+            LabelNama.Name = "LabelNama";
+            LabelNama.Size = new Size(50, 20);
+            LabelNama.TabIndex = 1;
+            LabelNama.Text = "label1";
             // 
             // Profile
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
+            Controls.Add(LabelNama);
+            Controls.Add(LabelHai);
             Name = "Profile";
             Size = new Size(1276, 845);
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
+
+        private Label LabelHai;
+        private Label LabelNama;
     }
 }

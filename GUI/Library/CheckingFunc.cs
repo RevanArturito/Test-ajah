@@ -7,12 +7,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using static System.Runtime.InteropServices.JavaScript.JSType;
-
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.StartPanel;
 namespace GUI.Library
 {
 
     public class CheckingFunc
     {
+        CurrentUser currentUser;
         public static List<Account> accounts = new List<Account>();
         string FilePath = "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\TUBES2\\Authentication\\Account.json";
 
@@ -29,6 +30,7 @@ namespace GUI.Library
             {
                 if (accounts[i].username == username && accounts[i].password == password)
                 {
+                    currentUser = new CurrentUser(username, accounts[i].role, accounts[i].email, accounts[i].phone);
                     return true;
                 }
             }

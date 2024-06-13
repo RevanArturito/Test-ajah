@@ -38,5 +38,15 @@
     "lebarProduk": "50",
     "stokProduk": 2,
     "deskripsiProduk": "Kamu adalah panel surya ku"
+  },
+  {
+    "namaproduk": "ASTAGFIRULAH",
+    "jenis": "Kabel",
+    "idProduk": "9193",
+    "hargaProduk": "4000000",
+    "panjangProduk": "100",
+    "lebarProduk": "50",
+    "stokProduk": 2,
+    "deskripsiProduk": "Kamu adalah panel surya ku"
   }
 ]

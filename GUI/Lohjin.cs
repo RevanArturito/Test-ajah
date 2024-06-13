@@ -25,7 +25,6 @@ namespace GUI
         {
             InitializeComponent();
             List<Account> accounts = new List<Account>();
-           
         }
 
         public void openRegister(object obj)
@@ -103,6 +102,7 @@ namespace GUI
             {
                 if (checkingFunc.LoginCheck(username, password))
                 {
+                    
                     MessageBox.Show("Login Berhasil");
                     this.Close();
                     th = new Thread(openHomePage);

@@ -46,7 +46,7 @@ namespace Authentication.Controllers
             }
             catch (Exception ex)
             {
-                throw new Exception($"Error reading account data: {ex.Message}");
+                throw new Exception($"Error reading Product data: {ex.Message}");
             }
         }
 

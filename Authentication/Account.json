@@ -1,1 +1,30 @@
-[{"username":"a","password":"a","email":"a","phone":"a","role":"admin"},{"username":"b","password":"b","email":"b","phone":"b","role":"user"},{"username":"c","password":"c","email":"c","phone":"c","role":"admin"},{"username":"h","password":"h","email":"h","phone":"h","role":"user"}]
+[
+  {
+    "username": "a",
+    "password": "a",
+    "email": "a",
+    "phone": "a",
+    "role": "admin"
+  },
+  {
+    "username": "b",
+    "password": "b",
+    "email": "b",
+    "phone": "b",
+    "role": "user"
+  },
+  {
+    "username": "c",
+    "password": "c",
+    "email": "c",
+    "phone": "c",
+    "role": "admin"
+  },
+  {
+    "username": "h",
+    "password": "h",
+    "email": "h",
+    "phone": "h",
+    "role": "user"
+  }
+]
