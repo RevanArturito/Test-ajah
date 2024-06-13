@@ -57,20 +57,28 @@ namespace Authentication.Controllers
 
         public void DeleteProduct(int id)
         {
-            List<Produk> products = GetProducts();
-            if (products != null)
+            // Mendeklarasikan daftar produk yang ada.
+            List<Produk> productList = GetProducts();
+            // Jika daftar produk tidak null, hapus produk pada indeks yang diberikan.
+            if (productList != null)
             {
-                products.RemoveAt(id);
+                // Menghapus produk pada indeks 'id' dari daftar produk.
+                productList.RemoveAt(id);
             }
 
-            var HasilKonversi = JsonConvert.SerializeObject(products);
+            // Mengonversi daftar produk yang telah diperbarui menjadi string JSON.
+            var HasilKonversi = JsonConvert.SerializeObject(productList);
 
+            // Membuat opsi untuk JSON Serializer, termasuk format indented untuk meningkatkan keterbacaan.
             JsonSerializerOptions options = new JsonSerializerOptions()
             {
                 WriteIndented = true,
             };
+
+            // Membuka file dengan StreamWriter pada jalur file yang ditentukan untuk menulis data yang diperbarui.
             using (StreamWriter write = new StreamWriter(_filePath))
             {
+                // Menulis string JSON hasil konversi ke dalam file.
                 write.Write(HasilKonversi);
             }
         }

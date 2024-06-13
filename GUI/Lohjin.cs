@@ -27,17 +27,17 @@ namespace GUI
             List<Account> accounts = new List<Account>();
         }
 
-        public void openRegister(object obj)
+        public void OpenRegister(object obj)
         {
             Application.Run(new RegisterForm());
         }
 
-        public void openHomePage(object obj)
+        public void OpenHomePage(object obj)
         {
             Application.Run(new HomePage());
         }
 
-        public void openUserPage(object obj)
+        public void OpenUserPage(object obj)
         {
             Application.Run(new UserPage());
         }
@@ -90,7 +90,7 @@ namespace GUI
         private void RegisterLabel_Click(object sender, EventArgs e)
         {
             this.Close();
-            th = new Thread(openRegister);
+            th = new Thread(OpenRegister);
             th.SetApartmentState(ApartmentState.STA);
             th.Start();
         }
@@ -112,14 +112,14 @@ namespace GUI
 
                         MessageBox.Show("Login Berhasil");
                         this.Close();
-                        th = new Thread(openHomePage);
+                        th = new Thread(OpenHomePage);
                         th.SetApartmentState(ApartmentState.STA);
                         th.Start();
                     } else
                     {
                         MessageBox.Show("Login Berhasil");
                         this.Close();
-                        th = new Thread(openUserPage);
+                        th = new Thread(OpenUserPage);
                         th.SetApartmentState(ApartmentState.STA);
                         th.Start();
                     }

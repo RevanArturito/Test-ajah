@@ -66,13 +66,19 @@ namespace GUI.UserControls
 
         private void ButtonHapus_Click(object sender, EventArgs e)
         {
+            // Menampilkan kotak dialog konfirmasi kepada pengguna saat tombol hapus diklik.
             DialogResult r = MessageBox.Show("Konfirmasi hapus produk ?", "Konfirmasi", MessageBoxButtons.OKCancel, MessageBoxIcon.Information);
+            // Memeriksa apakah pengguna mengklik tombol 'OK' di kotak dialog konfirmasi.
             if (r == DialogResult.OK)
             {
+                // Mendapatkan indeks dari item yang dipilih di ListView untuk menentukan produk mana yang akan dihapus.
                 int nomorYangAkandiHapus = listView1.SelectedIndices[0];
+                // Membuat instance dari ProductService, yang menangani penghapusan produk.
                 IProductService productService = new ProductService();
+                // Memanggil metode DeleteProduct untuk menghapus produk pada indeks yang dipilih.
                 productService.DeleteProduct(nomorYangAkandiHapus);
                 listView1.Items.Clear();
+                // Memuat ulang data ke dalam ListView untuk mencerminkan perubahan.
                 LoadDataIntoListView();
             }
 

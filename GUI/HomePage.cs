@@ -23,7 +23,6 @@ namespace GUI
         {
             CurrentUser currentUser = new CurrentUser();
             Application.Run(new Lohjin());
-
         }
 
         private void LogoutButton_Click(object sender, EventArgs e)
