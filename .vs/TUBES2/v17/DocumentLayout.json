@@ -3,47 +3,51 @@
   "WorkspaceRootPath": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\TES\\TUBES2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{77813C24-9763-4A2E-8EAD-2696BF391DC7}|GUI\\GUI.csproj|d:\\revan\\materi kuliah\\semester 4\\konstruksi perangkat lunak\\tes\\tubes2\\gui\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{77813C24-9763-4A2E-8EAD-2696BF391DC7}|GUI\\GUI.csproj|solutionrelative:gui\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{77813C24-9763-4A2E-8EAD-2696BF391DC7}|GUI\\GUI.csproj|d:\\revan\\materi kuliah\\semester 4\\konstruksi perangkat lunak\\tes\\tubes2\\gui\\usercontrols\\profileuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77813C24-9763-4A2E-8EAD-2696BF391DC7}|GUI\\GUI.csproj|solutionrelative:gui\\usercontrols\\profileuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77813C24-9763-4A2E-8EAD-2696BF391DC7}|GUI\\GUI.csproj|d:\\revan\\materi kuliah\\semester 4\\konstruksi perangkat lunak\\tes\\tubes2\\gui\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77813C24-9763-4A2E-8EAD-2696BF391DC7}|GUI\\GUI.csproj|solutionrelative:gui\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{77813C24-9763-4A2E-8EAD-2696BF391DC7}|GUI\\GUI.csproj|d:\\revan\\materi kuliah\\semester 4\\konstruksi perangkat lunak\\tes\\tubes2\\gui\\usercontrols\\profileuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77813C24-9763-4A2E-8EAD-2696BF391DC7}|GUI\\GUI.csproj|solutionrelative:gui\\usercontrols\\profileuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77813C24-9763-4A2E-8EAD-2696BF391DC7}|GUI\\GUI.csproj|d:\\revan\\materi kuliah\\semester 4\\konstruksi perangkat lunak\\tes\\tubes2\\gui\\usercontrols\\beliproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{77813C24-9763-4A2E-8EAD-2696BF391DC7}|GUI\\GUI.csproj|solutionrelative:gui\\usercontrols\\beliproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77813C24-9763-4A2E-8EAD-2696BF391DC7}|GUI\\GUI.csproj|d:\\revan\\materi kuliah\\semester 4\\konstruksi perangkat lunak\\tes\\tubes2\\gui\\usercontrols\\beliproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77813C24-9763-4A2E-8EAD-2696BF391DC7}|GUI\\GUI.csproj|solutionrelative:gui\\usercontrols\\beliproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77813C24-9763-4A2E-8EAD-2696BF391DC7}|GUI\\GUI.csproj|d:\\revan\\materi kuliah\\semester 4\\konstruksi perangkat lunak\\tes\\tubes2\\gui\\usercontrols\\listproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77813C24-9763-4A2E-8EAD-2696BF391DC7}|GUI\\GUI.csproj|solutionrelative:gui\\usercontrols\\listproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77813C24-9763-4A2E-8EAD-2696BF391DC7}|GUI\\GUI.csproj|d:\\revan\\materi kuliah\\semester 4\\konstruksi perangkat lunak\\tes\\tubes2\\gui\\usercontrols\\listproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{77813C24-9763-4A2E-8EAD-2696BF391DC7}|GUI\\GUI.csproj|D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\TES\\TUBES2\\gui\\usercontrols\\listproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{77813C24-9763-4A2E-8EAD-2696BF391DC7}|GUI\\GUI.csproj|solutionrelative:gui\\usercontrols\\listproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77813C24-9763-4A2E-8EAD-2696BF391DC7}|GUI\\GUI.csproj|d:\\revan\\materi kuliah\\semester 4\\konstruksi perangkat lunak\\tes\\tubes2\\gui\\usercontrols\\editproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{77813C24-9763-4A2E-8EAD-2696BF391DC7}|GUI\\GUI.csproj|solutionrelative:gui\\usercontrols\\editproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{77813C24-9763-4A2E-8EAD-2696BF391DC7}|GUI\\GUI.csproj|D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\TES\\TUBES2\\gui\\usercontrols\\listproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77813C24-9763-4A2E-8EAD-2696BF391DC7}|GUI\\GUI.csproj|solutionrelative:gui\\usercontrols\\listproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77813C24-9763-4A2E-8EAD-2696BF391DC7}|GUI\\GUI.csproj|d:\\revan\\materi kuliah\\semester 4\\konstruksi perangkat lunak\\tes\\tubes2\\gui\\usercontrols\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{77813C24-9763-4A2E-8EAD-2696BF391DC7}|GUI\\GUI.csproj|D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\TES\\TUBES2\\gui\\usercontrols\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77813C24-9763-4A2E-8EAD-2696BF391DC7}|GUI\\GUI.csproj|solutionrelative:gui\\usercontrols\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77813C24-9763-4A2E-8EAD-2696BF391DC7}|GUI\\GUI.csproj|D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\TES\\TUBES2\\gui\\usercontrols\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{77813C24-9763-4A2E-8EAD-2696BF391DC7}|GUI\\GUI.csproj|solutionrelative:gui\\usercontrols\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77813C24-9763-4A2E-8EAD-2696BF391DC7}|GUI\\GUI.csproj|D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\TES\\TUBES2\\gui\\usercontrols\\beliproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77813C24-9763-4A2E-8EAD-2696BF391DC7}|GUI\\GUI.csproj|solutionrelative:gui\\usercontrols\\beliproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77813C24-9763-4A2E-8EAD-2696BF391DC7}|GUI\\GUI.csproj|D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\TES\\TUBES2\\gui\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77813C24-9763-4A2E-8EAD-2696BF391DC7}|GUI\\GUI.csproj|solutionrelative:gui\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77813C24-9763-4A2E-8EAD-2696BF391DC7}|GUI\\GUI.csproj|D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\TES\\TUBES2\\gui\\usercontrols\\beliproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77813C24-9763-4A2E-8EAD-2696BF391DC7}|GUI\\GUI.csproj|solutionrelative:gui\\usercontrols\\beliproduk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77813C24-9763-4A2E-8EAD-2696BF391DC7}|GUI\\GUI.csproj|D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\TES\\TUBES2\\gui\\usercontrols\\editproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77813C24-9763-4A2E-8EAD-2696BF391DC7}|GUI\\GUI.csproj|solutionrelative:gui\\usercontrols\\editproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{77813C24-9763-4A2E-8EAD-2696BF391DC7}|GUI\\GUI.csproj|D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\TES\\TUBES2\\gui\\usercontrols\\editproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77813C24-9763-4A2E-8EAD-2696BF391DC7}|GUI\\GUI.csproj|solutionrelative:gui\\usercontrols\\editproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{77813C24-9763-4A2E-8EAD-2696BF391DC7}|GUI\\GUI.csproj|d:\\revan\\materi kuliah\\semester 4\\konstruksi perangkat lunak\\tes\\tubes2\\gui\\usercontrols\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77813C24-9763-4A2E-8EAD-2696BF391DC7}|GUI\\GUI.csproj|solutionrelative:gui\\usercontrols\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{77813C24-9763-4A2E-8EAD-2696BF391DC7}|GUI\\GUI.csproj|d:\\revan\\materi kuliah\\semester 4\\konstruksi perangkat lunak\\tes\\tubes2\\gui\\library\\checkingfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{77813C24-9763-4A2E-8EAD-2696BF391DC7}|GUI\\GUI.csproj|D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\TES\\TUBES2\\gui\\library\\checkingfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77813C24-9763-4A2E-8EAD-2696BF391DC7}|GUI\\GUI.csproj|solutionrelative:gui\\library\\checkingfunc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -54,11 +58,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 357,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "BeliProduk.cs [Design]",
               "DocumentMoniker": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\TES\\TUBES2\\GUI\\UserControls\\BeliProduk.cs",
               "RelativeDocumentMoniker": "GUI\\UserControls\\BeliProduk.cs",
@@ -79,7 +83,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "ProfileUser.cs",
+              "DocumentMoniker": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\TES\\TUBES2\\GUI\\UserControls\\ProfileUser.cs",
+              "RelativeDocumentMoniker": "GUI\\UserControls\\ProfileUser.cs",
+              "ToolTip": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\TES\\TUBES2\\GUI\\UserControls\\ProfileUser.cs",
+              "RelativeToolTip": "GUI\\UserControls\\ProfileUser.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T01:08:19.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProfileUser.cs [Design]",
+              "DocumentMoniker": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\TES\\TUBES2\\GUI\\UserControls\\ProfileUser.cs",
+              "RelativeDocumentMoniker": "GUI\\UserControls\\ProfileUser.cs",
+              "ToolTip": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\TES\\TUBES2\\GUI\\UserControls\\ProfileUser.cs [Design]",
+              "RelativeToolTip": "GUI\\UserControls\\ProfileUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T01:03:45.635Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ListProduct.cs",
               "DocumentMoniker": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\TES\\TUBES2\\GUI\\UserControls\\ListProduct.cs",
               "RelativeDocumentMoniker": "GUI\\UserControls\\ListProduct.cs",
@@ -92,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "ListProduct.cs [Design]",
               "DocumentMoniker": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\TES\\TUBES2\\GUI\\UserControls\\ListProduct.cs",
               "RelativeDocumentMoniker": "GUI\\UserControls\\ListProduct.cs",
@@ -104,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "AddProduct.cs",
               "DocumentMoniker": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\TES\\TUBES2\\GUI\\UserControls\\AddProduct.cs",
               "RelativeDocumentMoniker": "GUI\\UserControls\\AddProduct.cs",
@@ -117,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "AddProduct.cs [Design]",
               "DocumentMoniker": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\TES\\TUBES2\\GUI\\UserControls\\AddProduct.cs",
               "RelativeDocumentMoniker": "GUI\\UserControls\\AddProduct.cs",
@@ -129,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Payment.cs",
               "DocumentMoniker": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\TES\\TUBES2\\GUI\\Payment.cs",
               "RelativeDocumentMoniker": "GUI\\Payment.cs",
@@ -142,19 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Payment.cs [Design]",
-              "DocumentMoniker": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\TES\\TUBES2\\GUI\\Payment.cs",
-              "RelativeDocumentMoniker": "GUI\\Payment.cs",
-              "ToolTip": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\TES\\TUBES2\\GUI\\Payment.cs [Design]",
-              "RelativeToolTip": "GUI\\Payment.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T00:34:19.137Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "BeliProduk.cs",
               "DocumentMoniker": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\TES\\TUBES2\\GUI\\UserControls\\BeliProduk.cs",
               "RelativeDocumentMoniker": "GUI\\UserControls\\BeliProduk.cs",
@@ -167,19 +184,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "EditProduct.cs [Design]",
               "DocumentMoniker": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\TES\\TUBES2\\GUI\\UserControls\\EditProduct.cs",
               "RelativeDocumentMoniker": "GUI\\UserControls\\EditProduct.cs",
               "ToolTip": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\TES\\TUBES2\\GUI\\UserControls\\EditProduct.cs [Design]",
               "RelativeToolTip": "GUI\\UserControls\\EditProduct.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T00:22:18.799Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-14T00:22:18.799Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "CheckingFunc.cs",
               "DocumentMoniker": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\TES\\TUBES2\\GUI\\Library\\CheckingFunc.cs",
               "RelativeDocumentMoniker": "GUI\\Library\\CheckingFunc.cs",
@@ -187,12 +203,11 @@
               "RelativeToolTip": "GUI\\Library\\CheckingFunc.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T00:20:08.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T00:20:08.686Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "EditProduct.cs",
               "DocumentMoniker": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\TES\\TUBES2\\GUI\\UserControls\\EditProduct.cs",
               "RelativeDocumentMoniker": "GUI\\UserControls\\EditProduct.cs",
@@ -200,8 +215,7 @@
               "RelativeToolTip": "GUI\\UserControls\\EditProduct.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAAwDgAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-13T14:23:35.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-13T14:23:35.492Z"
             }
           ]
         },
