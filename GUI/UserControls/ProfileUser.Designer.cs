@@ -35,6 +35,7 @@
             LabelTipeProduk = new Label();
             DisplayUsername = new TextBox();
             LabelNamaProduk = new Label();
+            buttonEditProfile = new Button();
             SuspendLayout();
             // 
             // label1
@@ -108,10 +109,21 @@
             LabelNamaProduk.TabIndex = 7;
             LabelNamaProduk.Text = "Username";
             // 
+            // buttonEditProfile
+            // 
+            buttonEditProfile.Location = new Point(1046, 273);
+            buttonEditProfile.Name = "buttonEditProfile";
+            buttonEditProfile.Size = new Size(107, 42);
+            buttonEditProfile.TabIndex = 13;
+            buttonEditProfile.Text = "Edit Profile";
+            buttonEditProfile.UseVisualStyleBackColor = true;
+            buttonEditProfile.Click += button1_Click;
+            // 
             // ProfileUser
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
+            Controls.Add(buttonEditProfile);
             Controls.Add(DisplayPhone);
             Controls.Add(LabelHargaProduk);
             Controls.Add(DisplayEmail);
@@ -135,5 +147,6 @@
         private Label LabelTipeProduk;
         private TextBox DisplayUsername;
         private Label LabelNamaProduk;
+        private Button buttonEditProfile;
     }
 }
