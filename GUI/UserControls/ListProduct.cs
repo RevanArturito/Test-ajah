@@ -27,7 +27,6 @@ namespace GUI.UserControls
         {
             InitializeComponent();
             LoadDataIntoListView();
-
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -66,28 +65,49 @@ namespace GUI.UserControls
 
         private void ButtonHapus_Click(object sender, EventArgs e)
         {
-            // Menampilkan kotak dialog konfirmasi kepada pengguna saat tombol hapus diklik.
-            DialogResult r = MessageBox.Show("Konfirmasi hapus produk ?", "Konfirmasi", MessageBoxButtons.OKCancel, MessageBoxIcon.Information);
-            // Memeriksa apakah pengguna mengklik tombol 'OK' di kotak dialog konfirmasi.
-            if (r == DialogResult.OK)
+
+            if (listView1.SelectedItems.Count > 0)
             {
-                // Mendapatkan indeks dari item yang dipilih di ListView untuk menentukan produk mana yang akan dihapus.
-                int nomorYangAkandiHapus = listView1.SelectedIndices[0];
-                // Membuat instance dari ProductService, yang menangani penghapusan produk.
-                IProductService productService = new ProductService();
-                // Memanggil metode DeleteProduct untuk menghapus produk pada indeks yang dipilih.
-                productService.DeleteProduct(nomorYangAkandiHapus);
-                listView1.Items.Clear();
-                // Memuat ulang data ke dalam ListView untuk mencerminkan perubahan.
-                LoadDataIntoListView();
+                // Menampilkan kotak dialog konfirmasi kepada pengguna saat tombol hapus diklik.
+                DialogResult r = MessageBox.Show("Konfirmasi hapus produk ?", "Konfirmasi", MessageBoxButtons.OKCancel, MessageBoxIcon.Information);
+
+                // Memeriksa apakah pengguna mengklik tombol 'OK' di kotak dialog konfirmasi.
+                //(ini merupakan penerapan bagian dari secure code yang dimana jika ingin delete user diberikan konfirmasi tambahan untuk delete produk tersebut )
+                if (r == DialogResult.OK)
+                {
+                    // Mendapatkan indeks dari item yang dipilih di ListView untuk menentukan produk mana yang akan dihapus.
+                    //Penggunaan camelCase pada variable baru
+                    int nomorYangAkandiHapus = listView1.SelectedIndices[0];
+
+                    // Membuat instance dari ProductService, yang menangani penghapusan produk.
+                    IProductService productService = new ProductService();
+
+                    // Memanggil metode DeleteProduct untuk menghapus produk pada indeks yang dipilih.
+                    productService.DeleteProduct(nomorYangAkandiHapus);
+                    listView1.Items.Clear();
+
+                    // Memuat ulang data ke dalam ListView untuk mencerminkan perubahan.
+                    LoadDataIntoListView();
+                }
+            }
+            else
+            {
+                MessageBox.Show(
+                    "Silahkan pilih produk",
+                    "Kesalahan",
+                    MessageBoxButtons.OK,
+                    MessageBoxIcon.Error
+                );
             }
 
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
+
             if (listView1.SelectedItems.Count > 0)
             {
+
                 // Ambil item yang dipilih
                 ListViewItem selectedItem = listView1.SelectedItems[0];
 
@@ -121,6 +141,16 @@ namespace GUI.UserControls
                     UpdateJsonFile();
                 }
             }
+            else
+            {
+                MessageBox.Show(
+                    "Silahkan pilih produk",
+                    "Kesalahan",
+                    MessageBoxButtons.OK,
+                    MessageBoxIcon.Error
+                );
+            }
+
 
             th = new Thread(openEditor);
             th.SetApartmentState(ApartmentState.STA);
