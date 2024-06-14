@@ -66,6 +66,7 @@
             TombolBatal.TabIndex = 10;
             TombolBatal.Text = "Batal";
             TombolBatal.UseVisualStyleBackColor = false;
+            TombolBatal.Click += TombolBatal_Click_1;
             // 
             // BoxBankDigital
             // 
@@ -75,6 +76,7 @@
             BoxBankDigital.Name = "BoxBankDigital";
             BoxBankDigital.Size = new Size(151, 28);
             BoxBankDigital.TabIndex = 8;
+            BoxBankDigital.SelectedIndexChanged += BoxBankDigital_SelectedIndexChanged_1;
             // 
             // TombolExit
             // 
@@ -83,6 +85,7 @@
             TombolExit.Size = new Size(31, 31);
             TombolExit.TabIndex = 21;
             TombolExit.UseVisualStyleBackColor = true;
+            TombolExit.Click += TombolExit_Click_1;
             // 
             // JumlahItem
             // 
@@ -91,6 +94,7 @@
             JumlahItem.Name = "JumlahItem";
             JumlahItem.Size = new Size(184, 27);
             JumlahItem.TabIndex = 11;
+            JumlahItem.ValueChanged += JumlahItem_ValueChanged_1;
             // 
             // EWallet
             // 
@@ -137,6 +141,7 @@
             TotalHarga.Name = "TotalHarga";
             TotalHarga.Size = new Size(184, 27);
             TotalHarga.TabIndex = 4;
+            TotalHarga.TextChanged += TotalHarga_TextChanged_1;
             // 
             // LabelPilihMetodePembayaran
             // 
@@ -217,6 +222,7 @@
             LebarBarang.Size = new Size(254, 21);
             LebarBarang.TabIndex = 16;
             LebarBarang.Text = "Lebar : ";
+            LebarBarang.TextChanged += LebarBarang_TextChanged_1;
             // 
             // PanjangBarang
             // 
@@ -227,6 +233,7 @@
             PanjangBarang.Size = new Size(254, 21);
             PanjangBarang.TabIndex = 15;
             PanjangBarang.Text = "Panjang : ";
+            PanjangBarang.TextChanged += PanjangBarang_TextChanged_1;
             // 
             // DeskripsiBarang
             // 
@@ -237,6 +244,7 @@
             DeskripsiBarang.Name = "DeskripsiBarang";
             DeskripsiBarang.Size = new Size(525, 124);
             DeskripsiBarang.TabIndex = 14;
+            DeskripsiBarang.TextChanged += DeskripsiBarang_TextChanged_1;
             // 
             // NamaBarang
             // 
@@ -303,7 +311,9 @@
             Controls.Add(NamaBarang);
             Controls.Add(Header);
             Controls.Add(AreaPembayaran);
+            FormBorderStyle = FormBorderStyle.None;
             Name = "Payment";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Payment";
             ((System.ComponentModel.ISupportInitialize)JumlahItem).EndInit();
             ((System.ComponentModel.ISupportInitialize)Gambar2).EndInit();

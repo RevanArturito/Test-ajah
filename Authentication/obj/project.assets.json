@@ -472,19 +472,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Alghifari\\.nuget\\packages\\": {}
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\test\\Test-ajah\\Authentication\\Authentication.csproj",
+      "projectUniqueName": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\TES\\TUBES2\\Authentication\\Authentication.csproj",
       "projectName": "Authentication",
-      "projectPath": "D:\\test\\Test-ajah\\Authentication\\Authentication.csproj",
-      "packagesPath": "C:\\Users\\Alghifari\\.nuget\\packages\\",
-      "outputPath": "D:\\test\\Test-ajah\\Authentication\\obj\\",
+      "projectPath": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\TES\\TUBES2\\Authentication\\Authentication.csproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\TES\\TUBES2\\Authentication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Alghifari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

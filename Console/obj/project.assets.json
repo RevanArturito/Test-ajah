@@ -491,19 +491,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Alghifari\\.nuget\\packages\\": {}
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\test\\Test-ajah\\Console\\Console.csproj",
+      "projectUniqueName": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\TES\\TUBES2\\Console\\Console.csproj",
       "projectName": "Console",
-      "projectPath": "D:\\test\\Test-ajah\\Console\\Console.csproj",
-      "packagesPath": "C:\\Users\\Alghifari\\.nuget\\packages\\",
-      "outputPath": "D:\\test\\Test-ajah\\Console\\obj\\",
+      "projectPath": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\TES\\TUBES2\\Console\\Console.csproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\TES\\TUBES2\\Console\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Alghifari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -517,8 +517,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\test\\Test-ajah\\Authentication\\Authentication.csproj": {
-              "projectPath": "D:\\test\\Test-ajah\\Authentication\\Authentication.csproj"
+            "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\TES\\TUBES2\\Authentication\\Authentication.csproj": {
+              "projectPath": "D:\\REVAN\\MATERI KULIAH\\SEMESTER 4\\KONSTRUKSI PERANGKAT LUNAK\\TES\\TUBES2\\Authentication\\Authentication.csproj"
             }
           }
         }

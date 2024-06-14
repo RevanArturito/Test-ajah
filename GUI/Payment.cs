@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Admin.ProdukSpek;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -13,14 +14,16 @@ namespace GUI
 {
     public partial class Payment : Form
     {
+        public Produk produk { get; set; }
         private IState CurrentState;
         private MBankingState StateMBanking;
         private DebitState StateDebit;
         private EWalletState StateEWallet;
 
         private const int HargaItem = 100;
-        public Payment()
+        public Payment(Produk produk)
         {
+            this.produk = produk;
             InitializeComponent();
 
             StateMBanking = new MBankingState(this);
@@ -35,6 +38,10 @@ namespace GUI
             UpdateTotalHarga();
 
             JumlahItem.ValueChanged += JumlahItem_ValueChanged;
+            PanjangBarang.Text = $"Panjang : {produk.panjangProduk}";
+            LebarBarang.Text = $"Lebar : {produk.lebarProduk}";
+            DeskripsiBarang.Text = produk.deskripsiProduk;
+            NamaBarang.Text = $"Nama Produk : {produk.namaproduk}";
         }
 
         private void RadioButton_CheckedChanged(object sender, EventArgs e)
@@ -183,6 +190,48 @@ namespace GUI
         }
 
         private void NamaBarang_TextChanged_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void TombolExit_Click_1(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void DeskripsiBarang_TextChanged_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void PanjangBarang_TextChanged_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void LebarBarang_TextChanged_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void JumlahItem_ValueChanged_1(object sender, EventArgs e)
+        {
+
+        }
+
+        private void TotalHarga_TextChanged_1(object sender, EventArgs e)
+        {
+            int jumlah = (int)(JumlahItem.Value);
+            int total = jumlah * int.Parse(produk.hargaProduk);
+            TotalHarga.Text = total.ToString();
+        }
+
+        private void TombolBatal_Click_1(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void BoxBankDigital_SelectedIndexChanged_1(object sender, EventArgs e)
         {
 
         }
